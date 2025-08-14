@@ -11,3 +11,12 @@ Fast Fetch is just a creative way in order to see all of your machine specs.
 </div>
 
 You can see my config in the file located in the same directory. 
+
+
+### Logo
+
+For the logo i recommend that you set up only the URL inside the `jsonc` file and setup up the styles when running the command.
+
+`fastfetch --logo-height 20 --logo-width 50 --logo-position left`
+
+This is my command placed inside the `fish shell config file`. Please make sure what shell you have. Run `echo $SHELL` inside your terminal. 
