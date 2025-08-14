@@ -1,0 +1,11 @@
+{
+    // Auto-reload Kitty when saving its config
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "kitty\\.conf$",
+                "cmd": "kill -SIGUSR1 $(pgrep kitty)"
+            }
+        ]
+    }
+}
