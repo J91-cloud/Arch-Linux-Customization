@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://linuxiac.com/wp-content/uploads/2020/06/archlinux.jpg" />
+<img src="https://linuxiac.com/wp-content/uploads/2020/06/archlinux.jpg" style="height:250px" />
 </div>
 
 <p align="center">
